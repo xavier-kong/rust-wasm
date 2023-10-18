@@ -1,4 +1,4 @@
-https://rustwasm.github.io/docs/book/game-of-life/hello-world.html
+https://rustwasm.github.io/docs/book/game-of-life/implementing.html
 
 
 <div align="center">
