@@ -1,4 +1,10 @@
-https://rustwasm.github.io/docs/book/game-of-life/implementing.html
+https://rustwasm.github.io/docs/book/game-of-life/implementing.html#rendering-with-javascript
+
+to build: in project directory:
+wasm-pack build
+
+server locally: in www directory:
+npm run start
 
 
 <div align="center">
